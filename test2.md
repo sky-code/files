@@ -8,9 +8,9 @@ Yes I use docker on 2 previous projects, write at least 5 dockerfiles for python
 
 ## General
 
-#### Do you have experience with Docker?
+##### Do you have experience with Docker?
 
-#### Do you have experience with Docker compose?
+##### Do you have experience with Docker compose?
 
 #### How do you manage configurations? Do you have experience working with environment variables for configuration and/or configuration files and/or configuration server (etcd/consul)?
 
