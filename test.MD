@@ -101,3 +101,5 @@ Yes I use docker on 2 previous projects, write at least 5 dockerfiles for python
 - Do you have experience with Redis or Memcached?
 
 .
+
+- Do you have experience with Amazon S3?
